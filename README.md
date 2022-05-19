@@ -11,7 +11,7 @@
 
 ---
 
-### Regras de negócio
+## Regras de negócio
 
 [✓] A requisição de criação de um _User_ deverá ser feito com os parâmetros _name_, _username_ \
 [✓] _User_ deverá ser criado com um _id_ do tipo _UUID_ \
@@ -24,4 +24,6 @@
 [✓] Não deve ser possível deletar um _Todo_ inexistente
 [✓] Não deve ser possível atualizar um _Todo_ inexistente
 
+<p align="center">
 Feito com 💜 por João P. Laureano
+</p>
